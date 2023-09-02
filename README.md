@@ -8,7 +8,8 @@ The database is created using microsoft sql server:
 
 2-Schema
 
-![image](https://github.com/1MostafaAyman1/GymDataBase/assets/80271742/3902a686-dbcb-40e5-8153-f063717e2050)
+![image](https://github.com/1MostafaAyman1/GymDataBase/assets/80271742/84cc982a-9b60-4cc5-9be2-febf18e18b50)
+
 
 
 
